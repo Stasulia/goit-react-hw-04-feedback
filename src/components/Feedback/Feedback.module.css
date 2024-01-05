@@ -1,0 +1,12 @@
+.feedbackTitle {
+  font-size: 10px;
+}
+.feedbackForm {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.feedbackBtn {
+  font-size: 30px;
+  width: 220px;
+}
